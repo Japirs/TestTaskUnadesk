@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleLibrary", "TriangleLibrary\TriangleLibrary.csproj", "{B2F0538C-039A-417B-A218-06EA4AEB1C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleLibraryTest", "TriangleLibraryTest\TriangleLibraryTest.csproj", "{2345513E-4EFC-4D49-877B-7C78650E4D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F0538C-039A-417B-A218-06EA4AEB1C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F0538C-039A-417B-A218-06EA4AEB1C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F0538C-039A-417B-A218-06EA4AEB1C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F0538C-039A-417B-A218-06EA4AEB1C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2345513E-4EFC-4D49-877B-7C78650E4D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2345513E-4EFC-4D49-877B-7C78650E4D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2345513E-4EFC-4D49-877B-7C78650E4D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2345513E-4EFC-4D49-877B-7C78650E4D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
